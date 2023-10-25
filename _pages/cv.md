@@ -37,6 +37,24 @@ Research Experience
   * Carthage College, Department of Psychology
   * Duties: Recruit study participants, collect patient data, present poster
   * Supervisor: Dr. Heather Cameron
+ 
+Publications
+======
+  <ul>{% for post in site.publications %}
+    {% include archive-single-cv.html %}
+  {% endfor %}</ul>
+  
+Works in Progress
+======
+  <ul>{% for post in site.wip %}
+    {% include archive-single-wip-cv.html %}
+  {% endfor %}</ul>
+
+Talks
+======
+  <ul>{% for post in site.talks %}
+    {% include archive-single-talk-cv.html %}
+  {% endfor %}</ul>
 
 Employment
 ======
@@ -135,15 +153,4 @@ Skills
   * SQL
   * NVivo
 
-Publications
-======
-  <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
-  
+
