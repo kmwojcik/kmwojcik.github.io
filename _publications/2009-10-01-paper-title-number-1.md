@@ -1,15 +1,18 @@
 ---
-title: "Paper Title Number 1"
+title: "Symptom-driven inhaled corticosteroid/long-acting beta-agonist therapy for adult patients with asthma who are non-adherent to daily maintenance inhalers: a study protocol for a pragmatic randomized controlled trial"
 collection: publications
 permalink: /publication/2009-10-01-paper-title-number-1
-excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
-date: 2009-10-01
-venue: 'Journal 1'
-paperurl: 'http://academicpages.github.io/files/paper1.pdf'
-citation: 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
+excerpt:
+date: 2022
+venue: 'Trials'
+paperurl: '[http://academicpages.github.io/files/paper1.pdf](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9720948/)'
+citation: 'Krings, J.G., Wojcik, K.M., Chen, V. et al. Symptom-driven inhaled corticosteroid/long-acting beta-agonist therapy for adult patients with asthma who are non-adherent to daily maintenance inhalers: a study protocol for a pragmatic randomized controlled trial. Trials 23, 975 (2022). https://doi.org/10.1186/s13063-022-06916-3'
 ---
-This paper is about the number 1. The number 2 is left for future work.
+Background
+While inhaled corticosteroids (ICS) are considered the essential foundation of most asthma therapy, ICS inhaler nonadherence is a notoriously common problem and a significant cause of asthma-related morbidity. Partially acknowledging the problem of nonadherence, international organizations recently made paradigm-shifting recommendations that all patients with mild-to-moderate persistent asthma be considered for symptom-driven ICS-containing inhalers rather than relying on adherence to traditional maintenance ICS inhalers and symptom-driven short-acting beta-agonists (SABA). With this new approach, asthma patients are at least exposed to the important anti-inflammatory effects of ICS-containing inhalers when their symptom reliever inhaler is deployed due to acute symptoms.
 
-[Download paper here](http://academicpages.github.io/files/paper1.pdf)
+Methods
+This study will (Part 1) complete a pragmatic randomized controlled trial to evaluate if an inhaler strategy that utilizes symptom-driven ICS inhalers is particularly beneficial in maintenance ICS inhaler non-adherent asthma patients, and (Part 2) use a dissemination and implementation (D&I) science conceptual framework to better understand patients’ and providers’ views of inhaler nonadherence. This study, which will have an option of taking place entirely remotely, will use a Food and Drug Administration (FDA)-approved electronic sensor (Hailie® sensor) to monitor inhaler adherence and includes semi-structured interviews guided by the Consolidated Framework for Implementation Research (CFIR).
 
-Recommended citation: Your Name, You. (2009). "Paper Title Number 1." <i>Journal 1</i>. 1(1).
+Discussion
+This study is assessing the problem of nonadherence using a D&I implementation science research lens while testing a new inhaler approach to potentially ameliorate the detrimental consequences of maintenance inhaler nonadherence. We hypothesize that the use of a symptom-driven ICS/LABA management strategy, as compared to traditional maintenance ICS treatment and symptom-driven SABA, will lead to improved adherence to an asthma treatment strategy, decreased asthma-related morbidity, less cumulative ICS exposure, and greater patient satisfaction with an inhaler approach.
