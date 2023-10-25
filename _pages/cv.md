@@ -74,7 +74,7 @@ Honors and Awards
 * Lusted Award Finalist, October 2023
   * Simulation Modeling to Extend a Clinical Trial to Inform Chemotherapy Decisions in Node Positive Breast Cancer, Presented at the 45th Annual Meeting of the Society for Medical Decision Making
 * Lusted Award Finalist, October 2023
-  * A Scoping Review of Web-Based, Interactive, Personalized Clinical Decision Tools Designed to Support Breast Cancer Treatment and Survivorship Care., Presented at the 45th Annual Meeting of the Society for Medical Decision Making
+  * A Scoping Review of Web-Based, Interactive, Personalized Clinical Decision Tools Designed to Support Breast Cancer Treatment and Survivorship Care, Presented at the 45th Annual Meeting of the Society for Medical Decision Making
 * Brown School Scholarship, Fall 2021
 * Second Place, Intermediate All-Girl Division I, Spring 2021
   * National Cheerleaders Association at National Championships
